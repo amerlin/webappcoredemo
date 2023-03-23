@@ -1,3 +1,3 @@
-﻿# web app core demo
+﻿# Web app core demo
  
  Simple web app (dotnet core 7) with Identity
